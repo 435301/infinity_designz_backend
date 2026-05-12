@@ -55,8 +55,8 @@ import { DashboardModule } from './dashboard/dashboard.module';
       },
     }),
     PrismaModule,
-    AuthModule,
-    BrandsModule,
+    AuthModule,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         0?
+    BrandsModule:
     CategoriesModule,
     SliderRightModule,    
     SliderModule,
